@@ -15,7 +15,7 @@ Before you get started, make sure you have the following tools installed on your
 
 2. Customize the Nginx configuration:
 
-   - Edit the `nginx-site.conf` file to configure Nginx for your specific project needs.
+   - Edit the `nginx/nginx-site.conf` file to configure Nginx for your specific project needs.
 
 3. Build and start the Docker containers:
 
