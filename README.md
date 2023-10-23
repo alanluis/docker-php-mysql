@@ -1,6 +1,6 @@
 # PHP and Nginx Docker Development Environment
 
-This is a Docker-based development environment for PHP web applications using Nginx as the web server. With this setup, you can quickly set up a local development environment for your PHP projects with Nginx as the web server.
+This is a Docker-based development environment for PHP web applications using Nginx as the web server. With this setup, you can quickly set up a local development environment for your PHP projects with Nginx as the web server and MySQL as the database server.
 
 ## Prerequisites
 
@@ -21,3 +21,5 @@ Before you get started, make sure you have the following tools installed on your
 
    ```bash
    docker-compose up -d
+
+4. Access [http://localhost:8080](http://localhost:8080)
